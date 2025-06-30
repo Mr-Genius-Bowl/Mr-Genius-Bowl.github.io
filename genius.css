@@ -3,15 +3,15 @@ body {
 }
 h1 {
 color: blue;
-font-family:'Comic Sans MS', 'Comic Sans', cursive;
+font-family:'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', 'Comic Neue' monospace;
 }
 p {
 color: rgb(171, 71, 0);
-font-family:'Comic Sans MS', 'Comic Sans', cursive;
+font-family:'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', 'Comic Neue' monospace;
 }
 a {
 color: rgb(171, 71, 0);
-font-family:'Comic Sans MS', 'Comic Sans', cursive;
+font-family:'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', 'Comic Neue' monospace;
 }
 
 .center {
