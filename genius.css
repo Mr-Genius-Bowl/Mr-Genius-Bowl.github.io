@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(192, 131, 204);
+}
+h1 {
+color: blue;
+font-family:'Comic Sans MS', 'Comic Sans', cursive;
+}
+p {
+color: rgb(171, 71, 0);
+font-family:'Comic Sans MS', 'Comic Sans', cursive;
+}
+a {
+color: rgb(171, 71, 0);
+font-family:'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.container {
+    height: 500px;
+    position: relative;
+    border: 3px solid green;
+    background-color: darkorchid;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.float-container {
+    display: flex;
+    gap: 20px; /* Optional: space between columns */
+}
+
+.float-child {
+    flex: 1;
+}
+
+.green {
+    background-color: green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
